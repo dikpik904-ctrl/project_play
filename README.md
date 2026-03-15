@@ -8,3 +8,5 @@ How play my game
 1 up
 2 down
 bugs is no silbod
+ my game have 2 tacktick fo play
+ bag or really play
